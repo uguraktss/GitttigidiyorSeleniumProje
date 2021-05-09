@@ -1,0 +1,8 @@
+com\gittigidiyor\pages\HomePage.class
+com\gittigidiyor\pages\CartPage.class
+com\gittigidiyor\pages\ProductDetailPage.class
+com\gittigidiyor\pages\SearchResultPage.class
+com\gittigidiyor\WebDriverHelper.class
+com\gittigidiyor\users\User.class
+com\gittigidiyor\Log4j.class
+com\gittigidiyor\pages\LoginPage.class
